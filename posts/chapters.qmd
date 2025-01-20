@@ -144,103 +144,110 @@ title: "Contents of the Book"
 
 ------------------------------------------------------------------------
 
-## **Chapter 9: Analysis of Indeterminate Structures**  
-**(Consistent Deformation Method / Force Method / Flexibility Method)**  
-9.1 Introduction  
-9.2 Consistent Deformation Method: General Procedure  
-9.3 Consistent Deformation Method for Beams  
-9.4 Consistent Deformation Method for Frames  
-9.5 Consistent Deformation Method for Trusses  
+## **Chapter 9: Analysis of Indeterminate Structures**
 
-**Solved Examples:** 56  
+**(Consistent Deformation Method / Force Method / Flexibility Method)**\
+9.1 Introduction\
+9.2 Consistent Deformation Method: General Procedure\
+9.3 Consistent Deformation Method for Beams\
+9.4 Consistent Deformation Method for Frames\
+9.5 Consistent Deformation Method for Trusses
 
----
+**Solved Examples:** 56
 
-## **Chapter 10: Analysis of Indeterminate Beams and Frames by the Slope-Deflection Method**  
-**(Displacement Method of Analysis)**  
-10.1 Introduction  
-   - Discussions on kinematic indeterminacy and uniform sign conventions.  
-10.2 Derivation of Slope-Deflection Equations  
-10.3 Equations of Equilibrium  
-   - Applications for beams and frames, including:  
-     - Settlement of supports  
-     - Rotations of fixed-end supports  
-     - Sway in frames  
-     - Fabrication and placement errors  
-     - Temperature changes  
-10.4 Slope-Deflection Equations for Non-Prismatic Members  
+------------------------------------------------------------------------
 
-**Solved Examples:** 45  
+## **Chapter 10: Analysis of Indeterminate Beams and Frames by the Slope-Deflection Method**
 
----
+**(Displacement Method of Analysis)**\
+10.1 Introduction\
+- Discussions on kinematic indeterminacy and uniform sign conventions.\
+10.2 Derivation of Slope-Deflection Equations\
+10.3 Equations of Equilibrium\
+- Applications for beams and frames, including:\
+- Settlement of supports\
+- Rotations of fixed-end supports\
+- Sway in frames\
+- Fabrication and placement errors\
+- Temperature changes\
+10.4 Slope-Deflection Equations for Non-Prismatic Members
 
-## **Chapter 11: Moment Distribution Method**  
-**(Displacement Method of Analysis)**  
-11.1 Introduction  
-11.2 Definition of Terms  
-11.3 Development of the Method  
-11.4 Analysis of Frames Without Side-Sway (Braced Frames)  
-11.5 Analysis of Frames With Side-Sway  
-11.6 Application to Beams and Frames with:  
-   - Fabrication Errors  
-   - Support Settlements  
-   - Temperature Changes  
-11.7 Analysis of Multi-Story Frames  
-11.8 Moment Distribution for Non-Prismatic Members  
+**Solved Examples:** 45
 
-**Solved Examples:** 35  
+------------------------------------------------------------------------
 
----
+## **Chapter 11: Moment Distribution Method**
 
-## **Chapter 12: Influence Lines for Statically Indeterminate Structures**  
-12.1 Introduction  
-12.2 Muller-Breslau Principle for Drawing Influence Lines  
-12.3 Propped Cantilever Beams  
-   - Influence Lines for Reactions, Moments, and Shear Forces  
-12.4 Continuous Beams  
-   - Influence Lines for Bending Moments and Shear Forces  
-12.5 Frames  
-   - Influence Lines for Horizontal Reactions  
-12.6 Fixed Beams  
-   - Influence Lines for Support Moments and Reactions  
-12.7 Qualitative Influence Lines for Beams and Frames  
+**(Displacement Method of Analysis)**\
+11.1 Introduction\
+11.2 Definition of Terms\
+11.3 Development of the Method\
+11.4 Analysis of Frames Without Side-Sway (Braced Frames)\
+11.5 Analysis of Frames With Side-Sway\
+11.6 Application to Beams and Frames with:\
+- Fabrication Errors\
+- Support Settlements\
+- Temperature Changes\
+11.7 Analysis of Multi-Story Frames\
+11.8 Moment Distribution for Non-Prismatic Members
 
-**Solved Examples:** 20  
+**Solved Examples:** 35
 
----
+------------------------------------------------------------------------
 
-## **Chapter 13: Stiffness Method of Analysis of Indeterminate Structures**  
-13.1 Introduction  
-13.2 Generating Stiffness Matrices for Structural Elements  
-13.3 Combining Stiffness Matrices for Multi-Element Structures  
-13.4 Analysis of Beams Using Stiffness Method  
-13.5 Analysis of Frames Using Stiffness Method  
-13.6 Analysis of Pin-Jointed Frames Using Stiffness Method  
+## **Chapter 12: Influence Lines for Statically Indeterminate Structures**
 
-**Solved Examples:** 30  
+12.1 Introduction\
+12.2 Muller-Breslau Principle for Drawing Influence Lines\
+12.3 Propped Cantilever Beams\
+- Influence Lines for Reactions, Moments, and Shear Forces\
+12.4 Continuous Beams\
+- Influence Lines for Bending Moments and Shear Forces\
+12.5 Frames\
+- Influence Lines for Horizontal Reactions\
+12.6 Fixed Beams\
+- Influence Lines for Support Moments and Reactions\
+12.7 Qualitative Influence Lines for Beams and Frames
 
----
+**Solved Examples:** 20
 
-## **Chapter 14: Basics of Structural Dynamics**  
-**(Free and Forced Vibrations of Single and Multi-Degree of Freedom Systems)**  
-14.1 Introduction  
-14.2 Types of Dynamic Loadings  
-14.3 Modeling of Structures  
-14.4 Formulation of Equations of Motion  
-14.5 Single Degree of Freedom Systems  
-14.6 Multi-Degree of Freedom Systems  
+------------------------------------------------------------------------
 
-**Solved Examples:** 25  
+## **Chapter 13: Stiffness Method of Analysis of Indeterminate Structures**
 
----
+13.1 Introduction\
+13.2 Generating Stiffness Matrices for Structural Elements\
+13.3 Combining Stiffness Matrices for Multi-Element Structures\
+13.4 Analysis of Beams Using Stiffness Method\
+13.5 Analysis of Frames Using Stiffness Method\
+13.6 Analysis of Pin-Jointed Frames Using Stiffness Method
+
+**Solved Examples:** 30
+
+------------------------------------------------------------------------
+
+## **Chapter 14: Basics of Structural Dynamics**
+
+**(Free and Forced Vibrations of Single and Multi-Degree of Freedom Systems)**\
+14.1 Introduction\
+14.2 Types of Dynamic Loadings\
+14.3 Modeling of Structures\
+14.4 Formulation of Equations of Motion\
+14.5 Single Degree of Freedom Systems\
+14.6 Multi-Degree of Freedom Systems
+
+**Solved Examples:** 25
+
+------------------------------------------------------------------------
 
 ### **Summary of the Book**
+
 The proposed book will contain **approximately 1,000 pages** and will cover all essential topics in structural analysis, from basic principles to advanced computational methods. With its emphasis on clarity, practical examples, and modern techniques, the book aims to be a valuable resource for:
 
-- **Undergraduate and Postgraduate Students** in civil engineering.  
-- **Candidates Preparing for Competitive Exams** like IES, UPSC, and GATE.  
-- **Practicing Engineers** seeking to enhance their knowledge and problem-solving skills.  
+-   **Undergraduate and Postgraduate Students** in civil engineering.\
+-   **Candidates Preparing for Competitive Exams** like IES, UPSC, and GATE.\
+-   **Practicing Engineers** seeking to enhance their knowledge and problem-solving skills.
 
 The combination of detailed theoretical discussions and numerous solved examples ensures that the book will cater to both academic and professional needs.
 
----
+------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 # **Comparative Mapping of the Proposed Book Against the Best Books in the Market**
 
 | **Publisher**                        | **Title**                           | **Author**             | **Comments**                                                                                                               |
-|-----------------|-----------------|-----------------|---------------------|
+|------------------|------------------|------------------|--------------------|
 | Oxford University                    | Structural Analysis                 | T. S. Thandavamoorthy  | The book does not provide answers to problems at the end of each chapter.                                                  |
 | Dhanpat Publishing Pvt.              | Theory of Structures                | S. Ramamrutham         | The course coverage is not according to the recent upgraded syllabus of the course.                                        |
 | Laxmi Publications                   | Comprehensive Structural Analysis   | Vaidyanathan & others  | Presentation style of examples needs improvements.                                                                         |
