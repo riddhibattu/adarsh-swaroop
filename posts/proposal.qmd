@@ -1,0 +1,101 @@
+## **Proposed Book: Theory and Analysis of Structures**
+
+**Author:** Adarsh Swaroop
+
+**Contact:**
+
+-   **Mobile:** +91-9826665655
+-   **Email:** [swaroop.adarsh\@gmail.com](mailto:swaroop.adarsh@gmail.com)
+
+------------------------------------------------------------------------
+
+### **Overview of the Book**
+
+**Theory and Analysis of Structures** is designed as a comprehensive guide for students and professionals in civil engineering, addressing the essential concepts, theories, and applications of structural analysis. This book stands apart by simplifying complex topics, making them accessible and engaging for readers. It bridges the gap between theoretical understanding and real-world applications, preparing students for academic excellence and professional success.
+
+The book incorporates classical methods of structural analysis, covering beams, frames, arches, trusses, and cables, while also introducing modern techniques like the **matrix method** and **structural dynamics**. The content is tailored to cater to undergraduate and graduate-level students and is aligned with the syllabi of technical universities and professional examinations such as **IES**, **UPSC**, and **GATE**.
+
+------------------------------------------------------------------------
+
+### **Key Features**
+
+1.  **Focused on Fundamental Concepts**:\
+    Each topic begins with a clear discussion of basic concepts and fundamental theories, accompanied by mathematical treatments in a concise and understandable manner.
+
+2.  **Reader-Friendly Presentation**:\
+    The text is written in simple, accessible language, ensuring that students can grasp the material with ease.
+
+3.  **Rich with Solved Examples**:
+
+    -   Numerous solved examples are included, explained step-by-step to reinforce understanding.
+    -   Free-body diagrams are extensively used to visualize forces and deformations.
+
+4.  **Unique Approach to Problem-Solving**:
+
+    -   Instead of traditional end-of-chapter problems, this book emphasizes numerical examples throughout the chapters, promoting active learning.
+    -   Chapters are formatted to maintain continuity, with theory followed by practical examples.
+
+5.  **Innovative Use of Tools**:\
+    The book introduces the application of **MS-Excel** for solving simultaneous equations and iterative computations, providing students with practical computational skills.
+
+6.  **Aligned with Professional Exams**:\
+    The content is tailored to meet the requirements of competitive exams like **IES**, **UPSC**, and **GATE**, as well as syllabi of various technical universities.
+
+7.  **Structural Dynamics and Modern Techniques**:
+
+    -   **Chapter 13** introduces the matrix method of structural analysis, highlighting its computational efficiency and relevance in modern structural design.
+    -   **Chapter 14** covers the dynamics of structures, including material vibrations and earthquake-induced motions, preparing students for real-world challenges.
+
+8.  **Target Audience**:
+
+    -   Undergraduate and postgraduate students pursuing civil engineering.
+    -   Candidates preparing for professional exams like **IES**, **UPSC**, and **GATE**.
+    -   Engineering students across Asian countries.
+
+------------------------------------------------------------------------
+
+### **Unique Value Proposition**
+
+The book fills a critical gap in structural engineering education by addressing the following challenges:
+
+-   Simplifying traditionally clumsy and overly technical texts, making them accessible.
+-   Encouraging students to actively engage with numerical problems instead of relying on help books.
+-   Offering solutions that combine classical and modern approaches to structural analysis.
+
+------------------------------------------------------------------------
+
+### **Features at a Glance**
+
+-   Historical overview of structural engineering in **Chapter 1** to build foundational interest.
+-   Sign conventions are consistently applied and clarified at the beginning of each chapter.
+-   Comprehensive coverage of classical methods and their relevance to modern design.
+-   Dynamic load analysis, including earthquake-induced vibrations, introduced for practical safety considerations.
+
+------------------------------------------------------------------------
+
+### **Market Potential**
+
+The book is targeted at the following groups:
+
+1.  **Undergraduate and Graduate Students**:
+    -   Students in the 4th and 5th semesters of civil engineering programs.\
+    -   Approximately **20,000 students** across India annually.
+2.  **Competitive Exam Candidates**:
+    -   Candidates preparing for **IES**, **UPSC**, and **GATE**.
+    -   Approximately **100,000 candidates** annually.
+3.  **International Students**:
+    -   Students in Asian countries pursuing similar programs.
+
+------------------------------------------------------------------------
+
+### **About the Subject**
+
+The field of **Theory and Analysis of Structures** is evolving with increasingly complex structural forms and computational methods. The book integrates classical methods with modern computational approaches, ensuring a comprehensive understanding. It emphasizes foundational knowledge, allowing students to confidently apply advanced techniques like the matrix method.
+
+------------------------------------------------------------------------
+
+### **Author's Vision**
+
+This book is crafted with the belief that mastering the fundamentals is essential for success in structural analysis. By presenting the subject in an engaging and accessible manner, the author aims to inspire students to explore the field with enthusiasm and confidence.
+
+------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+# **Comparative Mapping of the Proposed Book Against the Best Books in the Market**
+
+| **Publisher**                        | **Title**                           | **Author**             | **Comments**                                                                                                               |
+|-----------------|-----------------|-----------------|---------------------|
+| Oxford University                    | Structural Analysis                 | T. S. Thandavamoorthy  | The book does not provide answers to problems at the end of each chapter.                                                  |
+| Dhanpat Publishing Pvt.              | Theory of Structures                | S. Ramamrutham         | The course coverage is not according to the recent upgraded syllabus of the course.                                        |
+| Laxmi Publications                   | Comprehensive Structural Analysis   | Vaidyanathan & others  | Presentation style of examples needs improvements.                                                                         |
+| Do                                   | Theory of Structures                | B. C. Punamia & others | The selected examples need to be more competitive exam-oriented.                                                           |
+| Tata McGraw Hill Education Pvt.      | Basic Structural Analysis           | C. S. Reddy            | There are many printing mistakes.                                                                                          |
+| Vikas Publishing House Pvt. Ltd      | Structural Analysis                 | S. S. Bhavikatti       | The book takes a casual approach in presentation and lacks quality printing.                                               |
+| Tata McGraw Hill Education Pvt.      | Structural Analysis                 | L. S. Negi & others    | Out of print at the moment.                                                                                                |
+| New International (P) Ltd Publishers | Introduction to Structural Analysis | Nautiyal               | The course coverage is not according to the recent upgraded syllabus of the course.                                        |
+| John Wiley & Sons, Ltd               | Fundamentals of Structural Analysis | H. West & others       | Inadequate number of numerical examples.                                                                                   |
+| Tata McGraw Hill Education Pvt.      | Fundamentals of Structural Analysis | Kenneth Leet & others  | Inadequate number of numerical examples.                                                                                   |
+| Tata McGraw Hill Education Pvt.      | Intermediate Structural Analysis    | C. K. Wang             | The book is authored by a very famous author. However, it does not provide answers to problems at the end of each chapter. |
+| S. Chand & Co                        | Theory of Structures                | Khurmi                 | The course coverage is not according to the recent upgraded syllabus of the course.                                        |
+| Tata McGraw Hill Education Pvt.      | Theory of Structures                | G. S. Pandit & others  | The selection of examples is very involved, and the presentation is such that students may struggle to follow them.        |

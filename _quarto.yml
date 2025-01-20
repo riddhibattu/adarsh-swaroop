@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs   # <-- tell Quarto to place rendered files in docs/
+
+website:
+  title: "Adarsh Swaroop Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Machanics of Materials"
+        href: posts/machanics_of_materials.qmd
+      - text: "Theory and Analysis of Structures"
+        menu:
+          - text: "Proposal"
+            href: posts/proposal.qmd
+          - text: "Chapter Info"
+            href: posts/chapters.qmd
+          - text: "Comparative Mapping Against Best Books in Market"
+            href: posts/comparative_mapping.qmd
+    right:
+      - icon: amazon
+        href: "https://amzn.in/d/eOOeWfl"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 4
+
+editor: visual
+
+execute:
+  freeze: auto

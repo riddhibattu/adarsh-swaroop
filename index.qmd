@@ -1,0 +1,63 @@
+---
+title: "Adarsh Swaroop - Engineer, Educator, and Author"
+---
+
+![](images/adarsh_swaroop.png){width="300px" fig-align="center"}
+
+**Adarsh Swaroop** is a luminary in the fields of Civil Engineering, Hydraulics, and Water Resources. With over five decades of contributions as an educator, engineer, and author, his work has left an enduring legacy in academia, industry, and research.
+
+------------------------------------------------------------------------
+
+## **A Legacy of Excellence**
+
+### **Education and Teaching**
+
+-   Graduated in **Civil Engineering** (1961) and earned a Master’s in **Dam Design, Irrigation Engineering, and Hydraulics** (1965) from the prestigious **University of Roorkee** (now IIT Roorkee).
+-   **28 years of teaching experience**, including:
+    -   Faculty at **Maulana Azad College of Technology** (MANIT, Bhopal) from 1965 to 1976.
+    -   Developed state-of-the-art laboratories for Civil Engineering education during his tenure as **Professor and Head of Civil Engineering** (2004-2017).
+
+### **Engineering and Industrial Contributions**
+
+-   Began his career at the **Lucknow Irrigation Directorate**, designing **earth dams**, including the **Ram Ganga Dam**.
+-   Served for 22 years at **Bharat Heavy Electricals Ltd.** (BHEL), where he:
+    -   Designed and developed **hydro-turbine runner blades** for Francis, Bulb, and Pump-Turbines.
+    -   Introduced **computer-aided design** techniques for hydraulically efficient and structurally robust components.
+    -   Conducted **structural and vibration analysis** for critical turbine components.
+
+### **Publications and Books**
+
+-   Published extensively in reputed journals such as **ASME**, **ASCE**, **IAHR**, and **Waterpower**.
+-   Co-authored **Water Turbines** and a **Laboratory Manual on Engineering Mechanics**.
+-   Authored the bestselling book **Mechanics of Materials (2014 Edition)**:
+    -   A comprehensive guide with **1000+ solved problems** for Civil and Mechanical Engineering students.
+    -   Widely recognized for its clarity and practical insights, with problems appearing in **IES examination papers**.
+
+------------------------------------------------------------------------
+
+## **Awards and Recognitions**
+
+-   **Best Research Paper Award** (twice) from the **National Society of Fluid Mechanics and Fluid Power - India**.
+-   Honored by **Structural Dynamics Research Corporation (SDRC) - USA** for contributions to structural dynamics.
+
+------------------------------------------------------------------------
+
+## **A Teacher, Innovator, and Mentor**
+
+Professor Adarsh Swaroop has not only shaped the careers of thousands of engineering students but has also set benchmarks in research and innovation. His passion for education, combined with his technical expertise, has made him a revered figure in the engineering community.
+
+------------------------------------------------------------------------
+
+## **Featured Book**
+
+![](images/machanics_of_materials.png){width="300px" fig-align="center"}
+
+**Mechanics of Materials**\
+A must-read for Civil and Mechanical Engineering students, this book simplifies complex concepts and includes real-world applications to help students excel.
+
+> *"Education and engineering are the tools to shape the future."*\
+> — Adarsh Swaroop
+
+------------------------------------------------------------------------
+
+## **Explore the Legacy: published works and contributions to engineering on the [Machanics of Materials](posts/machanics_of_materials.qmd) page.**
