@@ -8,7 +8,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Machanics of Materials"
+      - text: "Mechanics of Materials"
         href: posts/machanics_of_materials.qmd
       - text: "Theory and Analysis of Structures"
         menu:
