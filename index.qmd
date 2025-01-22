@@ -60,4 +60,4 @@ A must-read for Civil and Mechanical Engineering students, this book simplifies 
 
 ------------------------------------------------------------------------
 
-## **Explore the Legacy: published works and contributions to engineering on the [Machanics of Materials](posts/machanics_of_materials.qmd) page.**
+## **Explore the Legacy: published works and contributions to engineering on the** [Mechanics of Materials](posts/machanics_of_materials.qmd) **page.**
