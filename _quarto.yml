@@ -9,7 +9,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Mechanics of Materials"
-        href: posts/machanics_of_materials.qmd
+        href: posts/mechanics_of_materials.qmd
       - text: "Theory and Analysis of Structures"
         menu:
           - text: "Proposal"
